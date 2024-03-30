@@ -1,6 +1,7 @@
-<div align="center">
+<div align="center" style="background-color: #0D1117;">
   <img height="170" src="https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
 </div>
+
 
 ###
 
